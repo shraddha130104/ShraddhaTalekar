@@ -16,7 +16,7 @@ I have just completed the AWS Cloud and DevOps course.
 ### 🚀 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.zeroqode.com%2Fplugins%2Faws-file-uploader-plugin&psig=AOvVaw1vaVJO4OYO_i9yFiv7ClKn&ust=1758447419500000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDKop-F548DFQAAAAAdAAAAABAE"AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
