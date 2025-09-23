@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shraddha Nitin Talekar</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 
-- 🌱 I’m currently learning **AWS,Devopes,Docker and I am currently learning in my first year of Masters Computer Appplication**
+- 🌱 I’m currently learning **I have completed my BBA(CA) degree and have learned AWS and DevOps as well as Docker and Kubernetes.I have now taken admission in MCA and am doing Azure class.**
 
 - 📫 How to reach me **talekarshraddha00@gmail.com**
 
